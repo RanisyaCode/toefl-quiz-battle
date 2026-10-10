@@ -1,0 +1,361 @@
+{
+  "quizzes": {
+    "quiz-toefl-mastery-01": {
+      "id": "quiz-toefl-mastery-01",
+      "title": "TOEFL ITP Mini Battle: Diagnostic Set 1",
+      "description": "15 Soal resmi TOEFL: Listening (Double Negatives), Structure (Inversion Place), & Reading (Unstated Details). Waktu 30 detik per soal dengan server-authoritative timer.",
+      "timePerQuestionSeconds": 30,
+      "status": "published",
+      "questions": [
+        {
+          "id": "q-list-1",
+          "category": "listening",
+          "categoryLabel": "Listening Comprehension",
+          "subtype": "Double Negative Expressions",
+          "promptText": "What does the woman imply?",
+          "options": [
+            "The committee rejected every change. ",
+            "The committee was generally satisfied with the revisions. ",
+            "The committee had not examined the proposal.",
+            "The committee requested an entirely new proposal"
+          ],
+          "correctAnswerIndex": 1,
+          "explanationId": "“Not dissatisfied” meniadakan penilaian negatif. Ditambah “Not at all”, ungkapan ini\nmenunjukkan komite secara umum puas terhadap revisi. Tidak ada informasi tentang penolakan atau permintaan\nproposal baru.",
+          "explanationEn": "“Not dissatisfied” removes a negative judgment; with “Not at all,” it indicates that the committee\nwas generally pleased or at least satisfied. It does not imply rejection or a new request.",
+          "audioUrl": "blob:http://localhost:3000/99bf0d24-c7f2-4ae3-950e-b3419db20e27",
+          "audioTranscript": "Woman: \"Was the committee unhappy with the revised proposal?\"\nMan: \"Not at all. They were not dissatisfied with the changes.\""
+        },
+        {
+          "id": "q-list-2",
+          "category": "listening",
+          "categoryLabel": "Listening Comprehension",
+          "subtype": "Double Negative Expressions",
+          "promptText": " What can be concluded about Maria?",
+          "options": [
+            " She probably attended the workshop yesterday.",
+            "She has never registered for a workshop. ",
+            "She missed the workshop because of work. ",
+            "She attended only the final session"
+          ],
+          "correctAnswerIndex": 0,
+          "explanationId": "“Hardly ever misses” berarti Maria hampir tidak pernah absen. “Yesterday was no exception” berarti kemarin juga mengikuti kebiasaan itu, sehingga kemungkinan ia hadir. Pilihan lain menambahkan informasi yang tidak disebutkan.",
+          "explanationEn": "“Hardly ever misses” means she rarely fails to attend. “Yesterday was no exception” means the\nusual pattern continued, so she probably attended. The other choices introduce unsupported details.",
+          "audioUrl": "blob:http://localhost:3000/dada1b97-a09a-4541-9683-f0f6825a6fcf",
+          "audioTranscript": "Man: \"Did Maria miss the workshop?\"\nWoman: \"She hardly ever misses a session, and yesterday was no exception.\""
+        },
+        {
+          "id": "q-list-3",
+          "category": "listening",
+          "categoryLabel": "Listening Comprehension",
+          "subtype": "Double Negative Expressions",
+          "promptText": "What does the man mean?",
+          "options": [
+            "The equipment breaks down every week.",
+            "The equipment has never been used.",
+            "The equipment often operates reliably for long periods.",
+            "The equipment must be replaced immediately"
+          ],
+          "correctAnswerIndex": 2,
+          "explanationId": " “Not uncommon” berarti cukup lazim atau sering terjadi. Beroperasi selama berminggu-minggu “without a problem” menunjukkan kinerja yang andal. Pria tersebut membantah anggapan bahwa alat itu tidak dapat diandalkan.",
+          "explanationEn": "“Not uncommon” means reasonably common. Operating for weeks “without a problem”\ndescribes reliable performance. The man challenges the claim that the equipment is unreliable.",
+          "audioUrl": "blob:http://localhost:3000/e4a1483d-18df-44d8-9856-beccc66fdec0",
+          "audioTranscript": "Woman: \"I heard the new laboratory equipment was unreliable.\"\nMan: \"Actually, it is not uncommon for the equipment to operate for weeks without a problem.\""
+        },
+        {
+          "id": "q-list-4",
+          "category": "listening",
+          "categoryLabel": "Listening Comprehension",
+          "subtype": "Double Negative Expressions",
+          "promptText": "What is the most reasonable interpretation?",
+          "options": [
+            "Students are forbidden to complete the assignment.",
+            "The assignment has already been canceled.",
+            "Only graduate students may complete it. ",
+            "Completing the assignment is considered necessary or worthwhile."
+          ],
+          "correctAnswerIndex": 3,
+          "explanationId": "“Not unnecessary” merupakan konstruksi dua negasi yang menunjukkan tugas tersebut memiliki kebutuhan atau manfaat. Kalimat ini tidak secara tegas menjelaskan aturan penilaian, sehingga “perlu atau bermanfaat” adalah tafsiran paling tepat.",
+          "explanationEn": "“Not unnecessary” is a double-negative construction indicating that the task has some\nnecessity or value. It does not explicitly establish a strict grading rule, so “necessary or worthwhile” is the most careful interpretation.",
+          "audioUrl": "blob:http://localhost:3000/f2b8b04b-21cb-496e-8462-be5810a72c8a",
+          "audioTranscript": " Man: \"Did the instructor say the assignment was optional?\"\nWoman: \"No, she said it was not unnecessary for students to complete it.\""
+        },
+        {
+          "id": "q-list-5",
+          "category": "listening",
+          "categoryLabel": "Listening Comprehension",
+          "subtype": "Double Negative Expressions",
+          "promptText": "What does the man imply?",
+          "options": [
+            "Professor Lee strongly approved the change.",
+            "Professor Lee did not express opposition to the change. ",
+            "Professor Lee had already changed the schedule.",
+            "Professor Lee refused to discuss the schedule"
+          ],
+          "correctAnswerIndex": 1,
+          "explanationId": " “Did not say he was against it” berarti profesor tidak menyatakan penolakan. Namun, hal itu tidak membuktikan bahwa ia sangat mendukung perubahan tersebut; pilihan A terlalu jauh menyimpulkan.",
+          "explanationEn": "“Did not say he was against it” reports the absence of expressed opposition. It does not prove enthusiastic support; option A overstates the evidence.",
+          "audioUrl": "blob:http://localhost:3000/68c585fc-41ab-4612-bc5a-8e5893ac7cc5",
+          "audioTranscript": "Woman: \"I thought Professor Lee would oppose the schedule change.\"\nMan: \"Well, he did not say he was against it.\""
+        },
+        {
+          "id": "q-struct-1",
+          "category": "structure",
+          "categoryLabel": "Structure & Written Expression",
+          "subtype": "Inversion with Place Expressions",
+          "promptText": "At the far end of the exhibition hall _____ a series of photographs documenting the city’s history.",
+          "options": [
+            " hang ",
+            "hangs ",
+            "hanging ",
+            "has hung"
+          ],
+          "correctAnswerIndex": 1,
+          "explanationId": "Subjek sebenarnya adalah “a series”; inti frasa “series” pada konteks ini tunggal. Dalam inversi lokatif, keterangan tempat berada di awal, diikuti verba dan subjek: “At the far end ... hangs a series ...”.",
+          "explanationEn": "The true subject is “a series,” whose head noun “series” is singular here. In locative inversion,\nthe place phrase precedes the verb and the subject: “At the far end ... hangs a series ...”."
+        },
+        {
+          "id": "q-struct-2",
+          "category": "structure",
+          "categoryLabel": "Structure & Written Expression",
+          "subtype": "Inversion with Place Expressions",
+          "promptText": "Beyond the northern boundary of the reserve _____ several species of trees rarely found elsewhere.",
+          "options": [
+            " grows ",
+            "grow ",
+            "growing ",
+            "has grown"
+          ],
+          "correctAnswerIndex": 1,
+          "explanationId": "Subjek setelah verba adalah “several species of trees”, berupa frasa nomina jamak. Karena itu digunakan verba jamak “grow”. Keterangan tempat di awal memungkinkan urutan inversi.",
+          "explanationEn": "The postverbal subject is “several species of trees,” a plural noun phrase, so the plural verb\n“grow” is required. The opening location phrase triggers the inverted order."
+        },
+        {
+          "id": "q-struct-3",
+          "category": "structure",
+          "categoryLabel": "Structure & Written Expression",
+          "subtype": "Inversion with Place Expressions",
+          "promptText": "Which sentence correctly uses locative inversion?",
+          "options": [
+            "Near the entrance stands two security guards.",
+            "Near the entrance standing two security guards.",
+            "Near the entrance stand two security guards.",
+            "Near the entrance two security guards stand are."
+          ],
+          "correctAnswerIndex": 2,
+          "explanationId": " “Two security guards” merupakan subjek jamak, sehingga verbanya “stand”. Polanya adalah keterangan tempat + verba + subjek. A salah karena ketidaksesuaian subjek-verba, B tidak memiliki verba finit, dan D tidak gramatikal.",
+          "explanationEn": "“Two security guards” is plural, so “stand” agrees with it. The pattern is location phrase + verb +\nsubject. Option A has singular–plural disagreement; B lacks a finite verb; D is ungrammatical."
+        },
+        {
+          "id": "q-struct-4",
+          "category": "structure",
+          "categoryLabel": "Structure & Written Expression",
+          "subtype": "Inversion with Place Expressions",
+          "promptText": "On the top shelf of the archive _____ the original manuscript and two early translations.",
+          "options": [
+            "is",
+            "are",
+            "was",
+            "has"
+          ],
+          "correctAnswerIndex": 1,
+          "explanationId": "Subjek gabungan “the original manuscript and two early translations” terdiri atas beberapa benda yang dihubungkan oleh “and”, sehingga menggunakan “are”. Keterangan tempat ditempatkan di depan verba.",
+          "explanationEn": "The compound subject “the original manuscript and two early translations” contains multiple\nitems linked by “and,” so it takes “are.” The location phrase is fronted before the verb."
+        },
+        {
+          "id": "q-struct-5",
+          "category": "structure",
+          "categoryLabel": "Structure & Written Expression",
+          "subtype": "Inversion with Place Expressions",
+          "promptText": "Beside the old railway station _____ a small museum devoted to local transportation history.",
+          "options": [
+            " are located ",
+            "locate ",
+            "is located",
+            "have located"
+          ],
+          "correctAnswerIndex": 2,
+          "explanationId": "Subjek “a small museum” bersifat tunggal. Konstruksi lokatif pasif yang benar adalah\n“is located”. Pilihan lain tidak sesuai dari segi kesesuaian subjek-verba, bentuk pasif, atau struktur kalimat.",
+          "explanationEn": "The subject “a small museum” is singular. The passive locative construction therefore requires\n“is located.” The other choices fail in agreement, voice, or sentence structure."
+        },
+        {
+          "id": "q-read-1",
+          "category": "reading",
+          "categoryLabel": "Reading Comprehension",
+          "subtype": "Unstated Detail (EXCEPT)",
+          "stimulusText": "During the nineteenth century, public libraries expanded rapidly in many industrial cities. Local governments and private donors funded reading rooms that provided access to newspapers, reference books, and educational lectures. Some libraries offered evening hours to accommodate factory workers. Although collections were initially modest, many institutions gradually acquired scientific journals and works of literature.",
+          "promptText": "Which of the following is NOT mentioned as a feature of these libraries?",
+          "options": [
+            "Access to newspapers and reference books",
+            "Evening hours at some institutions",
+            "Free transportation for factory workers ",
+            "Educational lectures supported by library programs"
+          ],
+          "correctAnswerIndex": 2,
+          "explanationId": " Bacaan menyebutkan surat kabar dan buku referensi, ceramah pendidikan, serta jam malam bagi pekerja pabrik. Tidak ada informasi tentang layanan transportasi, sehingga C merupakan detail yang tidak disebutkan",
+          "explanationEn": "The passage mentions newspapers and reference books, educational lectures, and evening hours for factory workers. It says nothing about transportation services; therefore C is the unstated detail."
+        },
+        {
+          "id": "q-read-2",
+          "category": "reading",
+          "categoryLabel": "Reading Comprehension",
+          "subtype": "Unstated Detail (NOT Stated)",
+          "stimulusText": "Coral reefs develop in warm, shallow marine environments where sunlight can reach symbiotic algae living within coral tissues. These algae supply much of the energy corals need for growth. Reefs also provide shelter for numerous fish and invertebrate species. Rising sea temperatures can disrupt the relationship between corals and algae, sometimes resulting in coral bleaching.",
+          "promptText": " All of the following are stated about coral reefs EXCEPT:",
+          "options": [
+            "They generally develop in warm, shallow waters. ",
+            "They depend partly on energy provided by algae.",
+            "They offer shelter to many marine organisms.",
+            "They grow most rapidly in deep, dark ocean waters."
+          ],
+          "correctAnswerIndex": 3,
+          "explanationId": "Air hangat dan dangkal, energi dari alga simbiotik, serta fungsi sebagai tempat berlindung organisme laut dinyatakan secara eksplisit. Bacaan tidak menyebut pertumbuhan tercepat di laut dalam yang gelap; pernyataan itu juga bertentangan dengan kebutuhan cahaya bagi alga.",
+          "explanationEn": "Warm, shallow water, energy from symbiotic algae, and shelter for marine species are explicitly stated. The passage does not say reefs grow fastest in deep, dark water; that claim also conflicts with its description of sunlight-dependent algae."
+        },
+        {
+          "id": "q-read-3",
+          "category": "reading",
+          "categoryLabel": "Reading Comprehension",
+          "subtype": "Unstated Detail (NOT Stated)",
+          "stimulusText": "A university research team examined how urban trees affect neighborhood temperatures. Sensors were installed on shaded sidewalks and nearby streets without tree cover. Measurements taken during summer afternoons showed lower surface temperatures in shaded locations. The researchers noted that building materials, wind conditions, and the density of tree canopies could also influence the readings.",
+          "promptText": "Which detail is NOT provided in the passage?",
+          "options": [
+            "The exact number of temperature sensors used ",
+            "The two kinds of locations where sensors were placed ",
+            "The season during which afternoon measurements were taken",
+            " Several factors that might influence temperature readings"
+          ],
+          "correctAnswerIndex": 0,
+          "explanationId": "Bacaan menjelaskan lokasi teduh dan tanpa pepohonan, pengukuran sore pada musim panas, serta faktor yang memengaruhi hasil. Jumlah sensor yang dipasang tidak pernah disebutkan, sehingga A adalah jawaban yang benar",
+          "explanationEn": "The passage identifies shaded and unshaded sites, summer afternoon measurements, and\npossible influencing factors. It never specifies how many sensors were installed, making A the only unstated detail."
+        },
+        {
+          "id": "q-read-4",
+          "category": "reading",
+          "categoryLabel": "Reading Comprehension",
+          "subtype": "Unstated Detail (NOT Mentioned)",
+          "stimulusText": "Before modern refrigeration became widespread, merchants used several methods to preserve perishable foods. Fish was frequently salted or dried, while some fruits were stored in cool cellars. In colder regions, natural ice was collected during winter and kept in insulated buildings for later use. These methods helped extend storage time, although their effectiveness varied with climate and local resources.",
+          "promptText": "According to the passage, all of the following were used to preserve food EXCEPT:",
+          "options": [
+            "Salting or drying fish",
+            " Storing fruit in cool cellars ",
+            "Collecting and storing natural ice ",
+            "Sealing food in electrically powered freezers"
+          ],
+          "correctAnswerIndex": 3,
+          "explanationId": "Teks secara jelas menyebut penggaraman atau pengeringan, penyimpanan dalam ruang bawah tanah yang sejuk, dan penggunaan es alami. Freezer listrik tidak disebutkan sebagai metode pengawetan sebelum pendinginan modern.",
+          "explanationEn": "The text explicitly lists salting or drying, cool cellars, and natural ice storage. Electrically\npowered freezers are not presented as one of the pre-refrigeration preservation methods."
+        },
+        {
+          "id": "q-read-5",
+          "category": "reading",
+          "categoryLabel": "Reading Comprehension",
+          "subtype": "Unstated Detail (EXCEPT)",
+          "stimulusText": "Migratory birds rely on several environmental cues during long-distance travel. Some species use the position of the sun and stars to maintain direction, while others respond to Earth’s magnetic field. Changes in daylight hours can help trigger seasonal migration. Scientists study these behaviors through satellite tracking, banding programs, and observations at important stopover sites.",
+          "promptText": "Which of the following is NOT stated in the passage?",
+          "options": [
+            "Some birds navigate using celestial information. ",
+            "Magnetic cues may assist bird navigation. ",
+            "Every migratory species follows exactly the same route.",
+            "Researchers use satellite tracking to investigate migration."
+          ],
+          "correctAnswerIndex": 2,
+          "explanationId": "Bacaan menyebut matahari dan bintang, medan magnet Bumi, serta pelacakan satelit. Tidak ada pernyataan bahwa semua spesies menempuh rute yang persis sama. Kata “every” merupakan\ngeneralisasi yang tidak didukung teks.",
+          "explanationEn": "The passage mentions the sun and stars, Earth’s magnetic field, and satellite tracking. It does\nnot claim that all species follow identical routes. The word “every” is an unsupported universal statement."
+        }
+      ],
+      "createdAt": "2026-10-10T06:28:17.463Z",
+      "updatedAt": "2026-10-10T07:33:24.756Z"
+    }
+  },
+  "rooms": {
+    "116296": {
+      "id": "room-1791614432619",
+      "pin": "116296",
+      "quizId": "quiz-toefl-mastery-01",
+      "quizTitle": "TOEFL ITP Mini Battle: Diagnostic Set 1",
+      "mode": "self_paced",
+      "state": "in_progress",
+      "timePerQuestionSeconds": 30,
+      "currentQuestionIndex": 0,
+      "questionStartedAt": 1791614432619,
+      "questionDeadline": 1791614462619,
+      "isReviewUnlocked": true,
+      "createdAt": 1791614432619,
+      "participants": {
+        "p-1791614432646-xxvt": {
+          "id": "p-1791614432646-xxvt",
+          "token": "token-loq0hpa32kmv20z3pi",
+          "name": "Peserta Mandiri",
+          "avatar": "🎓",
+          "totalScore": 0,
+          "correctCount": 0,
+          "wrongCount": 0,
+          "timeoutCount": 0,
+          "totalResponseTimeMs": 0,
+          "tabSwitchCount": 0,
+          "joinedAt": 1791614432647,
+          "answers": {}
+        },
+        "p-1791614457593-fecp": {
+          "id": "p-1791614457593-fecp",
+          "token": "token-r7irfpzi4jmmv20zmyh",
+          "name": "Peserta Mandiri #2",
+          "avatar": "🎓",
+          "totalScore": 0,
+          "correctCount": 0,
+          "wrongCount": 1,
+          "timeoutCount": 0,
+          "totalResponseTimeMs": 3057,
+          "tabSwitchCount": 0,
+          "joinedAt": 1791614457593,
+          "answers": {
+            "q-list-1": {
+              "selectedOptionIndex": 0,
+              "isCorrect": false,
+              "isTimeout": false,
+              "earnedScore": 0,
+              "responseTimeMs": 3057
+            }
+          }
+        },
+        "p-1791617668581-npj9": {
+          "id": "p-1791617668581-npj9",
+          "token": "token-is1vzmrv26mv22wgkl",
+          "name": "Peserta Mandiri #2 #2",
+          "avatar": "🎓",
+          "totalScore": 141,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "timeoutCount": 0,
+          "totalResponseTimeMs": 5360,
+          "tabSwitchCount": 0,
+          "joinedAt": 1791617668581,
+          "answers": {
+            "q-list-1": {
+              "selectedOptionIndex": 1,
+              "isCorrect": true,
+              "isTimeout": false,
+              "earnedScore": 141,
+              "responseTimeMs": 5360
+            }
+          }
+        }
+      }
+    },
+    "TESSS": {
+      "id": "room-1791617740705",
+      "pin": "TESSS",
+      "quizId": "quiz-toefl-mastery-01",
+      "quizTitle": "TOEFL ITP Mini Battle: Diagnostic Set 1",
+      "mode": "live",
+      "state": "finished",
+      "timePerQuestionSeconds": 30,
+      "currentQuestionIndex": 0,
+      "questionStartedAt": 1791617756131,
+      "questionDeadline": 1791617786131,
+      "isReviewUnlocked": false,
+      "createdAt": 1791617740705,
+      "participants": {}
+    }
+  }
+}

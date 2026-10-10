@@ -1,0 +1,6 @@
+{
+  "name": "TOEFL QUIZ BATTLE",
+  "description": "Game kuis edukasi TOEFL interaktif full-stack dengan mode Live Battle & Mandiri, server-authoritative timer, audio player listening, leaderboard podium, dan pembahasan bilingual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
